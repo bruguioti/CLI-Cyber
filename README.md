@@ -20,8 +20,4 @@
 
 ## 🛠️ Instalação
 
-1. Clone o repositório:
 
-```bash
-git clone https://github.com/seuusuario/bruna.code.git
-cd bruna.code
