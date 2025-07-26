@@ -1,0 +1,6 @@
+paramiko
+requests
+rich
+whois
+dnspython
+tqdm
