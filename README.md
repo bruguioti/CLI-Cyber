@@ -1,6 +1,6 @@
-# 🔐 bruna.code – CLI de Cibersegurança Ética
+# CLI de Cibersegurança Ética
 
-**bruna.code** é uma ferramenta de linha de comando (CLI) desenvolvida em Python para auxiliar testes de segurança em redes e aplicações de forma ética. Projetada com foco em aprendizado, prática de pentest e automação de tarefas comuns de reconhecimento.
+É  uma ferramenta de linha de comando (CLI) desenvolvida em Python para auxiliar testes de segurança em redes e aplicações de forma ética. Projetada com foco em aprendizado, prática de pentest e automação de tarefas comuns de reconhecimento.
 
 ---
 
