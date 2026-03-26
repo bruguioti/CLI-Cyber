@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 | Opção | Descrição |
 |-------|-----------|
@@ -16,8 +16,6 @@
 | 6     | 📦 Scan de vulnerabilidades com Nmap |
 | 7     | 🖧 Descoberta de dispositivos na rede (ping + portas) |
 
----
 
-## 🛠️ Instalação
 
 
